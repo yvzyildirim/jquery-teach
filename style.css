@@ -1,0 +1,18 @@
+header{
+	position: fixed;
+	width: 100%;
+	text-align: center;
+	height: 120px;
+	background: #335C7D;
+	color: #fff;
+	font-family: 'PT Sans', sans-serif;
+	transition: all 0.4s ease;
+}
+header.sticky {
+	margin-top:-70px;
+}
+#araba{
+	position:fixed;
+	margin-top:60px;
+	transition: all 0.4s ease;
+}
